@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GEEK_ASSINGMENT_React_states_003-PASSWORD-GENERATOR-/static/css/main.ba442c7c.css",
+    "main.js": "/GEEK_ASSINGMENT_React_states_003-PASSWORD-GENERATOR-/static/js/main.37af8723.js",
+    "static/js/787.2a174ed8.chunk.js": "/GEEK_ASSINGMENT_React_states_003-PASSWORD-GENERATOR-/static/js/787.2a174ed8.chunk.js",
+    "index.html": "/GEEK_ASSINGMENT_React_states_003-PASSWORD-GENERATOR-/index.html",
+    "main.ba442c7c.css.map": "/GEEK_ASSINGMENT_React_states_003-PASSWORD-GENERATOR-/static/css/main.ba442c7c.css.map",
+    "main.37af8723.js.map": "/GEEK_ASSINGMENT_React_states_003-PASSWORD-GENERATOR-/static/js/main.37af8723.js.map",
+    "787.2a174ed8.chunk.js.map": "/GEEK_ASSINGMENT_React_states_003-PASSWORD-GENERATOR-/static/js/787.2a174ed8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba442c7c.css",
+    "static/js/main.37af8723.js"
+  ]
+}
